@@ -31,7 +31,5 @@ da aplicação! */
 	
 	$objAddInfo = new FormRCInfo.php();
 	$condition =  $objAddInfo->addFormRCInfo($name,$surname,$career,$occupation,$workload,$institution_name,$type_instituition,$level_of_education,$level_incomplete_education,$knowledge_area,$finality,$modality,$relationship_with_objectives,$observation);
-	
-	
 ?>
 
